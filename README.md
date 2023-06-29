@@ -1,10 +1,10 @@
-- Currently working on backend development projects with the following:
+- Currently working on backend development projects with:
   - AWS DynamoDB
+  - AWS Lambda
   - REST API
   - Java
-- Learning Java, AWS, Python, HTML, CSS.
-- Reach out on LinkedIn, or email.
-- Languages: Java HTML CSS
-- Frameworks: String - Dagger
-- Databases: AWS DynamoDB
-- Contact Information: LinkedIn 
+- Learning Java - AWS - Python - HTML - CSS.
+- Familiar languages are Java - HTML - CSS
+- Work with Frameworks String - Dagger
+- Database: AWS DynamoDB
+- Reachout on LinkedIn 
