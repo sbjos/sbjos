@@ -1,5 +1,3 @@
-### Hi!
-
 - Currently working on backend development projects with the following:
   - AWS DynamoDB
   - REST API
