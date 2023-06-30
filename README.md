@@ -1,9 +1,8 @@
-- Currently working on backend development projects with:
+- Working on backend development projects with:
   - AWS DynamoDB
   - AWS Lambda
   - REST API
   - Java
-- Learning Java - AWS - Python - HTML - CSS.
 - Familiar languages are Java - HTML - CSS
 - Work with Frameworks String - Dagger
 - Database: AWS DynamoDB
