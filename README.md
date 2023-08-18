@@ -3,7 +3,7 @@
   - AWS Lambda
   - REST API
   - Java
-- Familiar languages are Java - HTML - CSS
+- Familiar languages are Java - HTML - CSS - JavaScript
 - Work with Frameworks String - Dagger
 - Database: AWS DynamoDB
-- Reachout on LinkedIn 
+- Reachout on LinkedIn
