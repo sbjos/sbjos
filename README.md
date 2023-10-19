@@ -1,9 +1,13 @@
 - Working on backend development projects with:
+  - Java
+  - JUnit Testing with Mockito
+  - Dagger
+  - Spring Boot
+  - REST API
   - AWS DynamoDB
   - AWS Lambda
-  - REST API
-  - Java
+
 - Familiar languages are Java - HTML - CSS - JavaScript
 - Work with Frameworks String - Dagger
-- Database: AWS DynamoDB
+- Database: AWS DynamoDB, MySQL Workbench
 - Reachout on LinkedIn
