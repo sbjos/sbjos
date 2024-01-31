@@ -1,13 +1,13 @@
-- Working on backend development projects with:
+- Working on backend development projects with the following:
   - Java
   - JUnit Testing with Mockito
+  - Spring
+  - Spring boot
   - Dagger
-  - Spring Boot
   - REST API
-  - AWS DynamoDB
-  - AWS Lambda
+  - AWS
 
-- Familiar languages are Java - HTML - CSS - JavaScript
+- Familiar languages are Java - HTML - CSS - JavaScript, React.js
 - Work with Frameworks String - Dagger
-- Database: AWS DynamoDB, MySQL Workbench
-- Reachout on LinkedIn
+- Database: AWS DynamoDB, MySQL Workbench, PostgreSQL
+- Reachout on LinkedIn: _linkedin.com/in/sebastienjjoseph_
