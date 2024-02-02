@@ -7,7 +7,7 @@
   - REST API
   - AWS
 
-- Familiar languages: Java - HTML - CSS - JavaScript - React.js
-- Work with Frameworks: String - Dagger
+- Familiar languages: Java - Spring boot - HTML - CSS - JavaScript - React.js
+- Work with Frameworks: Spring - Dagger
 - Database: AWS DynamoDB - MySQL Workbench - PostgreSQL
 - Reachout on LinkedIn: _linkedin.com/in/sebastienjjoseph_
