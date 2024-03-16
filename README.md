@@ -8,6 +8,6 @@
   - AWS
 
 - Familiar languages: Java - Spring boot - HTML - CSS - JavaScript - React.js
-- Work with Frameworks: Spring - Dagger
-- Database: AWS DynamoDB - MySQL Workbench - PostgreSQL
+- Work with Frameworks: Spring - Spring boot
+- Database: AWS DynamoDB - MySQL Workbench - PostgreSQL - MongoDB
 - Reachout on LinkedIn: _linkedin.com/in/sebastienjjoseph_
