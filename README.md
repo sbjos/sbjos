@@ -1,13 +1,14 @@
-- Working on backend development projects with the following:
-  - Java
-  - JUnit Testing with Mockito
-  - Spring
-  - Spring boot
-  - Dagger
+- Software Development with following experience:
+  - Backend Development
+  - Microservices
   - REST API
   - AWS
+  - M365
+  - Frontend Development
 
-- Familiar languages: Java - Spring boot - HTML - CSS - JavaScript - React.js
-- Work with Frameworks: Spring - Spring boot
-- Database: AWS DynamoDB - MySQL Workbench - PostgreSQL - MongoDB
+- languages: Java - JavaScript - HTML - CSS
+- Libraries: Lombok - React.js - j-query
+- Frameworks: Spring - Spring boot - JUnit - Mokito - Bootstrap
+- Databases: AWS DynamoDB - MySQL - PostgreSQL - MongoDB
+
 - Reachout on LinkedIn: _linkedin.com/in/sebastienjjoseph_
